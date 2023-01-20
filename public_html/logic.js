@@ -103,7 +103,7 @@ function Calculate() {
               ans+=p.toString();
               }
           }
-           document.getElementById("Result").value=ans;  
+           document.getElementById("Result").value=ans+"0";  
            return 0;
 
 }
